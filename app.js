@@ -2,7 +2,7 @@
 
 function askUserForSoul(){
     var userName = prompt('Sign your soul away :D');
-    alert('Do you like doggos' + userName?);
+    alert('Hiya' + userName);
      return userName;
 }
 
