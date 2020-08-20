@@ -14,3 +14,7 @@ function checkWelcome(){
         document.write('<h2>' + 'Welcome Friend :D' + '</h2>')
     }
 }
+
+var userName = askUserForSoul();
+
+checkWelcome();
