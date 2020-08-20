@@ -9,3 +9,13 @@ h1 {
     padding: 10px 20px 10px 20px;
     background-color:rgb(255,20,147);
 }
+
+nav > ul > li{
+    border: solid black 1px;
+    display: inline;
+    margin: 30px;
+    padding: 20px;
+    font-size: 30px;
+    font-display: cursive;
+    
+}
