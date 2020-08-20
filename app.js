@@ -7,5 +7,5 @@ alert('Do you like doggos?'+ username);
 if (userName === 'Alex'){
     document.write('<h2>' + 'Welcome' + '</h2>')
 } else {
-    document.write('<h2>' + 'Welcome Friend :D' +</h2>)
+    document.write('<h2>' + 'Welcome Friend :D' + '</h2>')
 }
