@@ -2,8 +2,8 @@
 
 function askUserForSoul(){
     var userName = prompt('Sign your soul away :D');
-alert('Do you like doggos' + userName?);
-return userName;
+    alert('Do you like doggos' + userName?);
+     return userName;
 }
 
 function checkWelcome(){
