@@ -18,3 +18,10 @@ nav >ul> li{
     font-size: 30px;
 
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
