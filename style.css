@@ -16,7 +16,6 @@ nav >ul> li{
     margin: 30px;
     padding: 20px;
     font-size: 30px;
-
 }
 
 img {
@@ -29,10 +28,8 @@ img {
 p {
     font-display: cursive;
     border: solid 10px white;
-    font-size: 10px;
+    font-size: 30px;
     padding: 10px 10px 10px 10px;
     text-decoration-color: white;
     background-color: black;
-
-
 }
